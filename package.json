@@ -1,0 +1,22 @@
+{
+  "name": "little-store",
+  "version": "1.0.0",
+  "description": "something about rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huntxiao/little-store.git"
+  },
+  "author": "hxiao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huntxiao/little-store/issues"
+  },
+  "homepage": "https://github.com/huntxiao/little-store#readme",
+  "dependencies": {
+    "rxjs": "^7.5.5"
+  }
+}
